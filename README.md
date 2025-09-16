@@ -1,2 +1,4 @@
-# Simple-Calculator
-This is a simple calculator program written in Python. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The user enters two numbers and selects the desired operation, and the calculator displays the result.
+num_1 = int(input("Enter num: "))
+num_2 = int(input("Enter num: "))
+num_3 = num_1 + num_2
+print(f"Total value: {num_3}")
